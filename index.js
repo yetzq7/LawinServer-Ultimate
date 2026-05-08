@@ -1,6 +1,29 @@
+const fs = require("fs");
+const ini = require("ini");
+
+const raw = fs.readFileSync("./config/config.ini", "utf-8");
+const config = ini.parse(raw);
+
+function logBool(section, key, label) {
+    const value = config?.[section]?.[key];
+
+    console.log(`[${section}] ${label} = ${value}`);
+}
+
+console.log("ULTIMATE CONFIG LOADED!")
+
+logBool("Config", "bUseConfigDisplayName", "Use Display Name");
+logBool("Profile", "bCompletedSeasonalQuests", "Seasonal Quests");
+logBool("Profile", "bGrantFoundersPacks", "Founder Packs");
+logBool("Profile", "bAllSTWEventsActivated", "STW Events");
+
+logBool("Events", "bEnableGeodeEvent", "Geode Event");
+logBool("Events", "bEnableCubeLake", "Cube Lake");
+logBool("Events", "bEnableCrackInTheSky", "Crack in the sky");
+logBool("Events", "bEnableBlockbusterRiskyEvent", "Blockbuster Event");
+
 const Express = require("express");
 const express = Express();
-const fs = require("fs");
 const path = require("path");
 const cookieParser = require("cookie-parser");
 
@@ -27,7 +50,7 @@ express.use(require("./structure/mcp.js"));
 
 const port = process.env.PORT || 3551;
 express.listen(port, () => {
-    console.log("LawinServer started listening on port", port);
+    console.log("LawinServer Ultimate started listening on port", port);
 
     require("./structure/xmpp.js");
 }).on("error", (err) => {
@@ -63,3 +86,8 @@ express.use((req, res, next) => {
         "intent": "prod"
     });
 });
+
+
+console.log("||| Made by Lawin")
+
+console.log("||| Modified by yetzq7")

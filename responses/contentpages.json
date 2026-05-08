@@ -1494,7 +1494,7 @@
           "title_line_1": {
             "ar": "كأس LawinServer",
             "de": "LawinServer-Pokal",
-            "en": "LawinServer Cup",
+            "en": "LawinServer UltimateCup",
             "es": "Copa de LawinServer",
             "es-419": "Copa de LawinServer",
             "fr": "Coupe de LawinServer",
@@ -1504,7 +1504,7 @@
             "pl": "Puchar LawinServera",
             "pt-BR": "Copa do LawinServer",
             "ru": "Кубок LawinServera",
-            "tr": "LawinServer Kupası",
+            "tr": "LawinServer UltimateKupası",
             "zh-CN": "LawinServer杯",
             "zh-Hant": "LawinServer盃"
           },
@@ -1512,7 +1512,7 @@
           "details_description": {
             "ar": "كأس LAWINSERVER",
             "de": "LAWINSERVER-POKAL",
-            "en": "LAWINSERVER CUP",
+            "en": "LawinServer UltimateCUP",
             "es": "COPA DE LAWINSERVER",
             "es-419": "COPA DE LAWINSERVER",
             "fr": "COUPE DE LAWINSERVER",
@@ -1522,7 +1522,7 @@
             "pl": "PUCHAR LAWINSERVERA",
             "pt-BR": "COPA DO LAWINSERVER",
             "ru": "КУБОК LAWINSERVERA",
-            "tr": "LAWINSERVER KUPASI",
+            "tr": "LawinServer UltimateKUPASI",
             "zh-CN": "LAWINSERVER杯",
             "zh-Hant": "LAWINSERVER盃"
           },
@@ -2079,7 +2079,7 @@
             "de": "Willkommen bei LawinServer!",
             "es": "¡Bienvenidos a LawinServer!",
             "es-419": "¡Bienvenidos a LawinServer!",
-            "fr": "Bienvenue sur LawinServer !",
+            "fr": "Bienvenue sur LawinServer Ultimate!",
             "it": "Benvenuto in LawinServer!",
             "ja": "LawinServerへようこそ！",
             "ko": "LawinServer에 오신 것을 환영합니다!",
@@ -2192,7 +2192,7 @@
             "de": "Willkommen bei LawinServer!",
             "es": "¡Bienvenidos a LawinServer!",
             "es-419": "¡Bienvenidos a LawinServer!",
-            "fr": "Bienvenue sur LawinServer !",
+            "fr": "Bienvenue sur LawinServer Ultimate!",
             "it": "Benvenuto in LawinServer!",
             "ja": "LawinServerへようこそ！",
             "ko": "LawinServer에 오신 것을 환영합니다!",
@@ -2344,7 +2344,7 @@
           "bHidden": false,
           "sectionId": "Featured",
           "bShowTimer": true,
-          "sectionDisplayName": "LawinServer Item Shop",
+          "sectionDisplayName": "LawinServer UltimateItem Shop",
           "bShowIneligibleOffers": true
         }
       ]
@@ -2393,10 +2393,10 @@
               }
             ]
           },
-          "displayName": "LawinServer Item Shop",
+          "displayName": "LawinServer Ultimate Item Shop",
           "_type": "MP Item Shop - Section",
           "sectionID": "LawinServer",
-          "category": "LawinServer Item Shop"
+          "category": "LawinServer Ultimate Item Shop"
         }
       ]
     },
