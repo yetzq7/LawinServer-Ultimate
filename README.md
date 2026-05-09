@@ -1,7 +1,8 @@
 ![Imgbb](https://i.ibb.co/VRNwXV2/LAWINSERVERU22-LTIMATE.png)
 
 LawinServer Ultimate is a private server that supports all Fortnite versions!  
-Credits to [Lawin](https://github.com/Lawin0129)
+
+## All credits go to [Lawin](https://github.com/Lawin0129)
 
 # To do:
 - [X] Matchmaking V2
@@ -10,6 +11,7 @@ Credits to [Lawin](https://github.com/Lawin0129)
 - [X] Single Player Mode
 - [ ] Multiplayer Mode
 - [ ] Android Optimizations
+- [ ] Website (Login and Register)
 
 ## How to host/use LawinServer Ultimate
 1) Install [NodeJS](https://nodejs.org/en/)
