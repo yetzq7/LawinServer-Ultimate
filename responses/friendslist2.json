@@ -1,5 +1,24 @@
 {
-  "friends": [],
+  "friends": [
+    {
+      "accountId": "fnproj",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2026-05-09T00:20:14.307Z"
+    },
+    {
+      "accountId": "hostaccountreloadbackendcom",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2026-05-09T00:29:36.093Z"
+    }
+  ],
   "incoming": [],
   "outgoing": [],
   "suggested": [],
