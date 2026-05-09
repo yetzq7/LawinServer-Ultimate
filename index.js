@@ -21,6 +21,8 @@ logBool("Events", "bEnableGeodeEvent", "Geode Event");
 logBool("Events", "bEnableCubeLake", "Cube Lake");
 logBool("Events", "bEnableCrackInTheSky", "Crack in the sky");
 logBool("Events", "bEnableBlockbusterRiskyEvent", "Blockbuster Event");
+console.log("Ultimate || Started hosting on 127.0.0.1")
+
 
 const Express = require("express");
 const express = Express();
