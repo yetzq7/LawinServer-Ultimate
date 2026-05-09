@@ -7,13 +7,13 @@
 
 # To do:
 ## - [X] Matchmaking V2
-## - [] Better XMPP
-- [] 
-- []
-- []
-- []
+## - [ ] Better XMPP
+## - [ ] Discord Bot
+## - [X] Single Player Mode
+## - [ ] Multiplayer Mode
+## - [ ] Android Optimizations
 
-## How to host/use LawinServer
+## How to host/use LawinServer Ultimate
 1) Install [NodeJS](https://nodejs.org/en/)
 2) Run "install_packages.bat" (This file isn't required after the packages are installed.)
 3) Run "start.bat", It should say "Started listening on port 3551"
