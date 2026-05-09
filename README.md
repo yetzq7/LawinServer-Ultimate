@@ -5,10 +5,9 @@
 
 ## Credits to [Lawin](https://github.com/Lawin0129)
 
-## To do:
-
-- [X] Matchmaking V2
-- [] Better XMPP
+# To do:
+## - [X] Matchmaking V2
+## - [] Better XMPP
 - [] 
 - []
 - []
