@@ -6,12 +6,12 @@
 ## Credits to [Lawin](https://github.com/Lawin0129)
 
 # To do:
-## - [X] Matchmaking V2
-## - [ ] Better XMPP
-## - [ ] Discord Bot
-## - [X] Single Player Mode
-## - [ ] Multiplayer Mode
-## - [ ] Android Optimizations
+- [X] Matchmaking V2
+- [ ] Better XMPP
+- [ ] Discord Bot
+- [X] Single Player Mode
+- [ ] Multiplayer Mode
+- [ ] Android Optimizations
 
 ## How to host/use LawinServer Ultimate
 1) Install [NodeJS](https://nodejs.org/en/)
