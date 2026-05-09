@@ -1,9 +1,7 @@
-![Imgbb](https://i.ibb.co/XfWRNSQ8/LAWINSERVERULTIMATE.jpg)
+![Imgbb](https://i.ibb.co/VRNwXV2/LAWINSERVERU22-LTIMATE.png)
 
-### LawinServer Ultimate is a private server that supports all Fortnite versions!
-  
-
-## Credits to [Lawin](https://github.com/Lawin0129)
+LawinServer Ultimate is a private server that supports all Fortnite versions!  
+Credits to [Lawin](https://github.com/Lawin0129)
 
 # To do:
 - [X] Matchmaking V2
