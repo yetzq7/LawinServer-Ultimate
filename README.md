@@ -11,6 +11,7 @@
 - [ ] Multiplayer Mode
 - [ ] Android Optimizations
 - [ ] Website (Login and Register)
+- [ ] Arena
 
 ## How to host/use LawinServer Ultimate
 1) Install [NodeJS](https://nodejs.org/en/)
