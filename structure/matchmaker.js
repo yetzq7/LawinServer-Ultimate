@@ -17,8 +17,7 @@ module.exports = async (ws) => {
         state: "Connecting"
     };
 
-    queue.push(player);
-    log.debug(`Player joined matchmaking queue. Total: ${queue.length}`);
+    
 
     if (queue.length === 1) {
         countdown = 60;
@@ -26,12 +25,7 @@ module.exports = async (ws) => {
         countdown = Math.max(0, countdown - 5);
     }
 
-    ws.on('close', () => {
-        queue = queue.filter(p => p.ws !== ws);
-        log.debug(`Player left matchmaking queue. Total: ${queue.length}`);
-        updateQueueConfigs();
-    });
-
+    
     Connecting(ws);
     await functions.sleep(400);
     Waiting(ws);

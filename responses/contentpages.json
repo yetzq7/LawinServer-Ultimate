@@ -1532,6 +1532,31 @@
           "secondary_color": "000F4A",
           "playlist_tile_image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/motd-s.png",
           "base_color": "FFFFFF"
+        },
+        {
+          "title_color": "000000",
+          "loading_screen_image": "https://i.ibb.co/ZzkP0p1j/Arena-Solo-Playlist-Fortnite.png",
+          "background_text_color": "1B1B1B",
+          "background_right_color": "DD091A",
+          "poster_back_image": "https://i.ibb.co/ZzkP0p1j/Arena-Solo-Playlist-Fortnite.png",
+          "_type": "Tournament Display Info",
+          "pin_earned_text": "Lawin is the winner!",
+          "tournament_display_id": "ArenaSolo",
+          "highlight_color": "FFFFFF",
+          "schedule_info": "February 1st, 2nd & 3rd: 2pm - 5pm JST",
+          "primary_color": "FFFFFF",
+          "flavor_description": "ez",
+          "poster_front_image": "https://i.ibb.co/ZzkP0p1j/Arena-Solo-Playlist-Fortnite.png",
+          "short_format_title": "Event Sessions",
+          "title_line_1": "Arena Solo",
+          "shadow_color": "1B1B1B",
+          "details_description": "Arena Solo",
+          "background_left_color": "F81B2D",
+          "long_format_title": "hello world",
+          "poster_fade_color": "DD091A",
+          "secondary_color": "1B1B1B",
+          "playlist_tile_image": "https://i.ibb.co/ZzkP0p1j/Arena-Solo-Playlist-Fortnite.png",
+          "base_color": "FFFFFF"
         }
       ],
       "_type": "Tournaments Info"
@@ -2409,3 +2434,4 @@
   },
   "_suggestedPrefetch": []
 }
+
